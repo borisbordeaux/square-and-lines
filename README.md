@@ -10,3 +10,7 @@ Press Escape to quit the app.
 ## Result
 Here is the result when the drawing is done:
 ![Result](images/result.png)
+
+## Animation
+Here is the animation:
+![Animation](images/animation.gif)
