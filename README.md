@@ -1,16 +1,18 @@
 # Square and Lines
 
-A little Qt6 application that draws some lines and forms a pretty cool drawing.
+A little Qt6 application that draws some lines and forms pretty cool drawings.
 
 ## How to use
-Press the spacebar to start the animation of the drawing.
-Press R to reset the drawing.
+Select the drawing you want to draw.  
+Press the draw button to start the drawing animation.  
 Press Escape to quit the app.
 
-## Result
-Here is the result when the drawing is done:
-![Result](images/result.png)
+## Results
+There are only 2 drawings for now:
+![Drawing 1](images/drawing1.png)
+![Drawing 2](images/drawing2.png)
 
 ## Animation
-Here is the animation:
-![Animation](images/animation.gif)
+Here are the animations:
+![Animation 1](images/animation1.gif)
+![Animation 2](images/animation2.gif)
